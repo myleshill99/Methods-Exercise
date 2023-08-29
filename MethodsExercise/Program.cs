@@ -29,9 +29,9 @@
             Console.WriteLine(Multiply(1, 2));
            
         }
-        public static int  Sum(int num1, int num2)
+        public static int  Sum(int num1,int num2)
         {
-            //code here            
+            return num1 + num2;            
         }
 
 
