@@ -27,6 +27,8 @@
             //int num2 = int.Parse(Console.ReadLine());
 
             Console.WriteLine(Multiply(1, 2));
+
+            Console.WriteLine(Sum(3, 4));
            
         }
         public static int  Sum(int num1,int num2)
